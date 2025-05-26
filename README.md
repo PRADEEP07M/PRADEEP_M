@@ -76,7 +76,7 @@ I hereby declare that the above information is true and genuine to the best of m
 
 ---
 ##
----**👨‍💻CONTACT INFO**
+**👨‍💻CONTACT INFO**
 
 📍 Coimbatore – 641005  
 📧 Email: [pradeepmanickam28@gmail.com](mailto:pradeepmanickam28@gmail.com)  
