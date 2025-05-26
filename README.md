@@ -4,75 +4,83 @@
 
 ---
 
-Welcome! I'm Pradeep M, with a strong foundation in Commerce and Computer Applications, passionate about leveraging technology to solve real-world business challenges. I thrive in environments where troubleshooting, system support, and continuous learning intersect.
+## 🎯 Career Objective
+
+Detail-oriented and customer-focused Tech Support professional with expertise in IT troubleshooting, system maintenance, and software support. Strong analytical skills with the ability to resolve technical issues efficiently. Adept at providing excellent user support and ensuring system uptime.
 
 ---
 
-## 🎓 Education
+## 🎓 Academic Qualifications
 
-- **M.Com Computer Application**  
-  *Hindusthan College of Arts and Science (2023–2025)* — *81.1%*
+**Hindusthan College of Arts and Science**  
+M.Com (Computer Applications), 2023–2025 – *81.1%*  
 
-- **B.Com Information Technology**  
-  *Sri Ramakrishna College of Arts and Science (2020–2023)* — *69.5%*
+**Sri Ramakrishna College of Arts and Science**  
+B.Com (Information Technology), 2020–2023 – *69.5%*
+
+---
+
+## 💡 Skills & Competencies
+
+- IT Troubleshooting & Problem Solving  
+- Software Installation, Configuration & Support  
+- Windows OS & Networking Basics  
+- Microsoft Office (Excel, PowerPoint, Word)  
+- System Administration & Ticketing Tools  
+- Customer Service & Technical Assistance  
+- Time Management & Multitasking
+
+---
+
+## 💼 Internship Experience
+
+**Accent Techno Soft**  
+*Training in Tableau & Advanced Excel*
+
+**Sales & Marketing Internship**  
+*15 days training in business development and customer outreach*
+
+---
+
+## 📊 Projects
+
+- **Challenges of Delivery Executives: A Study**  
+  Analyzed operational, time, and performance challenges in last-mile delivery using MS Word, Excel, and SPSS.
+
+- **A Study on Employee Absenteeism**  
+  Explored attendance trends and productivity impact using SPSS analysis.
 
 ---
 
 ## 📜 Certifications
 
-- SEBI – Investor Certification Examination *(2025)*
-- ChatGPT Engage & Learn – Accenture *(2025)*
-- TCS iON Career Edge – Young Professional *(2024)*
-- Advanced Excel – Accent Techno Soft *(2024)*
-- Project Management – Simplilearn / Skillup *(2024)*
-- Digital Marketing Fundamentals – Simplilearn / Skillup *(2024)*
+- ChatGPT Engage & Learn – *Accenture* (2025)  
+- SEBI-Investor Certification Examination (2025)  
+- TCS iON Career Edge – *Young Professional* (2024)  
+- Advanced Excel – *Accent Techno Soft* (2024)  
+- Project Management – *Simplilearn/SkillUp* (2024)  
+- Introduction to Digital Marketing – *Simplilearn/SkillUp* (2024)
 
 ---
 
-## 💼 Projects
+## 🏆 Achievements & Extracurriculars
 
-### 📦 Challenges of Delivery Executives  
-Analyzed operational inefficiencies and time management issues faced by last-mile delivery personnel using **Excel** and **SPSS**. Proposed actionable solutions to enhance performance.
-
-### 🧑‍💼 Employee Absenteeism Study  
-Investigated patterns and root causes behind absenteeism using **SPSS**. Provided recommendations to improve employee productivity and attendance.
+- NCC B & C Certificate Holder (A Grade)  
+- 50M Shooting Competition – Participated at State-Level, South Zone, and Pre-Nationals
 
 ---
 
-## 🛠️ Skills & Tools
+## ✍️ Declaration
 
-- **IT & System Support:**  
-  - Hardware/Software Troubleshooting  
-  - System Administration  
-  - Windows OS & Networking Basics  
-  - Software Installation & Maintenance
-
-- **Business & Productivity:**  
-  - Advanced MS Office (Excel, Word, PowerPoint)  
-  - Data Analysis (SPSS, Tableau - basic)  
-  - Project & Time Management  
-  - Ticketing Systems
-
-- **Soft Skills:**  
-  - Customer Query Management  
-  - Analytical Thinking  
-  - Effective Communication
+I hereby declare that the above information is true and genuine to the best of my knowledge.
 
 ---
+##
+---**👨‍💻CONTACT INFO**
 
-## 🌟 What Drives Me?
+📍 Coimbatore – 641005  
+📧 Email: [pradeepmanickam28@gmail.com](mailto:pradeepmanickam28@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/pradeep-m)  
+💻 [GitHub](https://github.com/PRADEEP-M)  
+📱 Phone: 9360509044  
 
-Solving technical problems, supporting users, and finding smarter ways to bridge IT and business needs. I’m always eager to learn new tools and contribute to team success.
-
----
-
-## 📫 Connect with Me
-
-- **Email:** [pradeepmanickam28@gmail.com](mailto:pradeepmanickam28@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/pradeep-m](https://linkedin.com/in/pradeep-m)
-
----
-
-> “Technology is best when it brings people together.” – Matt Mullenweg
-
----
