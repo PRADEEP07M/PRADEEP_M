@@ -80,7 +80,7 @@ I hereby declare that the above information is true and genuine to the best of m
 
 📍 Coimbatore – 641005  
 📧 Email: [pradeepmanickam28@gmail.com](mailto:pradeepmanickam28@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/pradeep-m)  
+🔗 [LinkedIn](https://instagram.com/_pradee_p07)  
 💻 [GitHub](https://github.com/PRADEEP-M)  
 📱 Phone: 9360509044  
 
