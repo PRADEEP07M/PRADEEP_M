@@ -24,6 +24,7 @@ B.Com (Information Technology), 2020–2023 – *69.5%*
 
   Technical Skills:
 •	IT Troubleshooting  |  Software Installation, Configuration, and Support  |  Networking Fundamentals and System Administration |  Microsoft Office (Excel, PowerPoint, Word)  |  Ticketing Systems and Customer Query Management.
+
    Soft Skills:
 •	Customer Service and Technical Assistance  |  Teamwork and Collaboration  |  Effective Communication for Customer Query Resolution  |  Problem Solving  |  Time Management  |  Multitasking.
 
