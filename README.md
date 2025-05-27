@@ -6,7 +6,7 @@
 
 ## 🎯 Career Objective
 
-Detail-oriented and customer-focused Tech Support professional with expertise in IT troubleshooting, system maintenance, and software support. Strong analytical skills with the ability to resolve technical issues efficiently. Adept at providing excellent user support and ensuring system uptime.
+Dedicated and customer-focused professional seeking a tech support position to leverage my IT troubleshooting, software support, and communication skills. Eager to deliver efficient technical solutions and enhance user satisfaction. Committed to continuous learning and contributing to team success in a dynamic environment.
 
 ---
 
@@ -22,13 +22,11 @@ B.Com (Information Technology), 2020–2023 – *69.5%*
 
 ## 💡 Skills & Competencies
 
-- IT Troubleshooting & Problem Solving  
-- Software Installation, Configuration & Support  
-- Windows OS & Networking Basics  
-- Microsoft Office (Excel, PowerPoint, Word)  
-- System Administration & Ticketing Tools  
-- Customer Service & Technical Assistance  
-- Time Management & Multitasking
+  Technical Skills:
+•	IT Troubleshooting  |  Software Installation, Configuration, and Support  |  Networking Fundamentals and System Administration |  Microsoft Office (Excel, PowerPoint, Word)  |  Ticketing Systems and Customer Query Management.
+   Soft Skills:
+•	Customer Service and Technical Assistance  |  Teamwork and Collaboration  |  Effective Communication for Customer Query Resolution  |  Problem Solving  |  Time Management  |  Multitasking.
+
 
 ---
 
@@ -66,7 +64,7 @@ B.Com (Information Technology), 2020–2023 – *69.5%*
 ## 🏆 Achievements & Extracurriculars
 
 - NCC B & C Certificate Holder (A Grade)  
-- 50M Shooting Competition – Participated at State-Level, South Zone, and Pre-Nationals
+- 50M peepsight Rifle sports Shooting Competition (prone & 3Position)– Participated at State-Level, South Zone, and Pre-Nationals
 
 ---
 
@@ -80,7 +78,7 @@ I hereby declare that the above information is true and genuine to the best of m
 
 📍 Coimbatore – 641005  
 📧 Email: [pradeepmanickam28@gmail.com](mailto:pradeepmanickam28@gmail.com)  
-🔗 [LinkedIn](https://instagram.com/_pradee_p07)  
+🔗 [LinkedIn](https://www.linkedin.com/in/pradeep-m-032a92260)  
 💻 [GitHub](https://github.com/PRADEEP-M)  
 📱 Phone: 9360509044  
 
