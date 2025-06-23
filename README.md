@@ -23,7 +23,7 @@ B.Com (Information Technology), 2020–2023 – *69.5%*
 ## 💡 Skills & Competencies
 
   Technical Skills:
-•	IT Troubleshooting  |  Software Installation, Configuration, and Support  |  Networking Fundamentals and System Administration |  Microsoft Office (Excel, PowerPoint, Word)  |  Ticketing Systems and Customer Query Management.
+  IT Troubleshooting | Software Installation, Configuration, and Support | System Administration | Microsoft Office (Excel, PowerPoint, Word) | Ticketing Systems and Customer Query Management | Tech Support | Operations Support | Entry-Level IT roles.
 
    Soft Skills:
 •	Customer Service and Technical Assistance  |  Teamwork and Collaboration  |  Effective Communication for Customer Query Resolution  |  Problem Solving  |  Time Management  |  Multitasking.
@@ -62,6 +62,10 @@ B.Com (Information Technology), 2020–2023 – *69.5%*
 
 ---
 
+## 🌐LANGUAGES
+   * English.   *Tamil.
+
+---
 ## 🏆 Achievements & Extracurriculars
 
 - NCC B & C Certificate Holder (A Grade)  
